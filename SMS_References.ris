@@ -1,0 +1,1783 @@
+TY  - CONF
+TI  - 3drepo.io: building the next generation Web3D repository with AngularJS and X3DOM
+AU  - Scully, Timothy
+AU  - Doboš, Jozef
+AU  - Sturm, Timo
+AU  - Jung, Yvonne
+T2  - Web3D '15: The 20th International Conference on Web3D Technology
+C1  - Heraklion Crete Greece
+C3  - Proceedings of the 20th International Conference on 3D Web Technology
+DA  - 2015/06/18/
+PY  - 2015
+DO  - 10.1145/2775292.2775312
+DP  - DOI.org (Crossref)
+SP  - 235
+EP  - 243
+LA  - en
+PB  - ACM
+SN  - 978-1-4503-3647-5
+ST  - 3drepo.io
+UR  - https://dl.acm.org/doi/10.1145/2775292.2775312
+Y2  - 2024/09/27/01:05:28
+ER  - 
+
+TY  - CONF
+TI  - Analyze and Compare the State Management Patterns of VUE
+AU  - Wu, Bo
+T2  - 2023 IEEE International Conference on Image Processing and Computer Applications (ICIPCA)
+C1  - Changchun, China
+C3  - 2023 IEEE International Conference on Image Processing and Computer Applications (ICIPCA)
+DA  - 2023/08/11/
+PY  - 2023
+DO  - 10.1109/ICIPCA59209.2023.10257967
+DP  - DOI.org (Crossref)
+SP  - 1279
+EP  - 1282
+PB  - IEEE
+SN  - 9798350314670
+UR  - https://ieeexplore.ieee.org/document/10257967/
+Y2  - 2024/09/27/01:05:56
+ER  - 
+
+TY  - JOUR
+TI  - Upcoming JavaScript web frameworks and their techniques
+AU  - Paakkanen, Juho
+DA  - 2023///
+PY  - 2023
+DO  - 10.13140/RG.2.2.35035.54560
+DP  - DOI.org (Datacite)
+LA  - en
+UR  - https://rgdoi.net/10.13140/RG.2.2.35035.54560
+Y2  - 2024/09/27/01:06:55
+ER  - 
+
+TY  - JOUR
+TI  - Comparison of front-end frameworks for web applicationsdevelopment
+AU  - Kaluža, Marin
+AU  - Vukelić, Bernard
+T2  - Zbornik Veleučilišta u Rijeci
+AB  - Modern web applications, due to the functionalities they provide in their user interfaces, have a complex program structure. Manually writing a program code, due to the complexity of the entire application,
+can result in uneven quality and content of individual application parts. Maintaining such developed applications is more difficult. Because of this, web applications are often developed by using different
+frameworks. A framework allows structuring, simpler and more uniform program script writing, and thus easier web application maintenance.
+
+There are various frameworks that can be used in the development of web applications, for different parts of the application. Those analyzed in this paper are used in the development of front end parts of web applications. According to their design, a web application can be developed as the Multi Page (MPA) or the Single Page (SPA).
+
+This paper explains the difference between MPA and SPA web applications.
+The advantages and disadvantages of MPA are demonstrated in relation to
+SPA web applications. Required characteristics that the framework should have in order to be optimized for creating MPA and SPA web applications are set. The hypothesis has been tested: There is a framework that is optimized for the development of both MPA and SPA applications. Possibilities, architecture and development techniques of a web application using front end frameworks, as well as the suitability of such frameworks for the development of MPA
+and SPA web applications have been analysed. Choosing a framework for the hypothesis testing has been performed based on the popularity of available frameworks. The required characteristics have been analyzed on the three most popular frameworks:
+Angular, Vue.js and React-js. It has been shown that the Vue.js framework is the most optimized framework for the development of both MPA and SPA applications.
+          , 
+            Moderne web-aplikacije, zbog funkcionalnosti koje omogućuju u korisničkom sučelju, imaju složenu programsku strukturu. Ručno pisanje programskog koda zbog složenosti cijele aplikacije može rezultirati neujednačenom kvalitetom i sadržajem pojedinih aplikacijskih djelova. Održavanje tako razvijanih aplikacija otežano je. Zbog toga se web-aplikacije često razvijaju korištenjem različitih frameworka. Framework omogućuje strukturiranje, jednostavnije i ujednačenije pisanje
+programskog koda, te time olakšava održavanje web-aplikacije. Postoji puno frameworka koji se mogu koristiti u razvoju web-aplikacija, i to za
+različite dijelove aplikacije, a oni analizirani u ovom radu koriste se
+u razvoju front end dijela web-aplikacije. Prema načinu izvođenja webaplikacije mogu biti Multi Page (MPA) ili Single Page (SPA). U radu je objašnjena različitost između MPA i SPA web-aplikacija. Pokazane su prednosti i nedostatci MPA u odnosu na SPA web-aplikacije. Postavljene su zahtijevane karakteristike frameworka koji je optimiziran za izradu MPA i SPA web-aplikacija. Testirana je hipoteza: Postoji framework koji je prilagođen za izradu i MPA i SPA aplikacija. Analizirane su mogućnosti, arhitektura i načini razvoja web-aplikacija pomoću front end
+frameworka te prilagođenost takvih frameworka za razvoj MPA i SPA web-aplikacija. Izvršen je odabir frameworka za testiranje hipoteze prema popularnosti na tržištu. Zahtijevane karakteristike analizirane su
+na 3 najpopularnija frameworka: Angular, Vue.js i React-js. Pokazano je
+da je Vue.js framework najoptimiziraniji framework za izradu i MPA i SPA aplikacija.
+DA  - 2018///
+PY  - 2018
+DO  - 10.31784/zvr.6.1.19
+DP  - DOI.org (Crossref)
+VL  - 6
+IS  - 1
+SP  - 261
+EP  - 282
+J2  - Zb. Veleuč. Rij. (Online)
+SN  - 18491723, 18481299
+UR  - https://hrcak.srce.hr/index.php?show=clanak&id_clanak_jezik=294389
+Y2  - 2024/09/27/01:09:07
+L1  - https://hrcak.srce.hr/file/294389
+ER  - 
+
+TY  - MGZN
+TI  - React.js vs. Next.js
+AU  - Dinku, Zerihun
+AB  - React.js and Next.js are among the JavaScript frameworks for building web applications. This thesis compares them in popularity, availability of documentation, and performance. Through a literature review in the theory part, the thesis will show the pros and cons of using each, thereby giving a starting point in decision making on choosing the proper framework based on the scale and intended purpose of the application. Furthermore, this thesis analyzes the popularity and availability of documentation of the frameworks. Data from GitHub, Stackoverflow, NPM trends, and Google trends were analyzed to see their popularity. The materials, manuals, and tutorials provided by the official React.js and Next.js websites provide adequate documentation for both frameworks. This paper comes with two similar applications made by React.js and Next.js for performance comparison. Lighthouse performance metrics from Google Chrome were used to measure the performance of each framework. In conclusion, React.js outperformed Next.js based on the comparison criteria. Despite React.js popularity and better performance, Next.js offers server-side rendering that makes fast initial loading possible and improves the user experience. Overall, developing large-scale applications and conducting extensive concurrent user load testing should be performed to reach a more sensible deduction.
+DA  - 2022///
+PY  - 2022
+LA  - en
+UR  - http://www.theseus.fi/handle/10024/750122
+ER  - 
+
+TY  - JOUR
+TI  - Comparative Analysis on Front-End Frameworks for Web Applications
+AU  - Vyas, Rishi
+T2  - International Journal for Research in Applied Science and Engineering Technology
+AB  - Abstract: An essential step in developing any program or app is choosing the appropriate front-end framework or library. Frontend Web development sounds similar to the JavaScript framework. Both of these choices are available for web development requirements. Vue, React, and Angular all fall under the umbrella of JavaScript frameworks. Due to the extensive spectrum of issues developers encounter daily, the industry offers a wide diversity. With the help of many accessible frameworks, a web application may be constructed as intended while considering all practical considerations. The advantages and disadvantages of the fundamental elements and distinctive features of frameworks are discussed in this paper. Additionally, it offers a thorough analysis of the research on front-end frameworks. This study gives an overview of the front-end frameworks discovered in the literature, outlining the essential components of these frameworks using a systematic literature review as methodology. The three most popular frameworks, Vue.js, Angular, and React, were examined for the necessary features.
+DA  - 2022/07/31/
+PY  - 2022
+DO  - 10.22214/ijraset.2022.45260
+DP  - DOI.org (Crossref)
+VL  - 10
+IS  - 7
+SP  - 298
+EP  - 307
+J2  - IJRASET
+SN  - 23219653
+UR  - https://www.ijraset.com/best-journal/comparative-analysis-on-frontend-frameworks-for-web-applications
+Y2  - 2024/09/27/01:15:58
+L1  - https://www.ijraset.com/best-journal/comparative-analysis-on-frontend-frameworks-for-web-applications
+ER  - 
+
+TY  - JOUR
+TI  - State-of-art frameworks for front-end and back-end web development
+AU  - Madurapperuma, I. H.
+AU  - Shafana, M. S.
+AU  - Sabani, M. J. A.
+T2  - Faculty of Technology, South Eastern University of Sri Lanka, Sri Lanka
+AB  - Identifying software requirements, designing, coding, and testing using frameworks and technologies are all part of the web application development process. Frameworks are collections of libraries and classes that provide a wide range of capabilities. For front-end and back-end development, there are a variety of frameworks that support multiple programming languages. Front-end development employs front-end programming languages to create what the user sees on a website; back-end development employs back-end programming languages to fulfill those requests on the server side. When used together, it produces a unified look and feel. The database is where the data for web applications is stored for usage by back-end frameworks. Choosing the proper combination of front-end and back-end frameworks is the most critical component of the web development lifecycle. This paper discusses frontend and back-end frameworks. A systematic review was conducted utilizing highly cited publications, narrowed down to the most recent and relevant works in the research area. This study intends to give researchers and industry developers a brief reference to web development tools through a critical review
+DA  - 2022/08/24/
+PY  - 2022
+SN  - 978-624-5736-40-9
+UR  - http://ir.lib.seu.ac.lk/handle/123456789/6339
+KW  - Angular js
+KW  - Back-end frameworks
+KW  - Front-end frameworks
+KW  - Laravel
+KW  - Web application
+ER  - 
+
+TY  - JOUR
+TI  - Revolutionizing Student Engagement: Building a Cutting-Edge Student Interaction System with MERN Stack and Next.js
+AU  - Jadhav, Kavita
+AU  - Dange, Rahul
+AU  - Thapa, Roman
+AU  - Dubey, Divyansh
+AU  - Sinha, Shivani
+T2  - SSRN Electronic Journal
+DA  - 2023///
+PY  - 2023
+DO  - 10.2139/ssrn.4625799
+DP  - DOI.org (Crossref)
+J2  - SSRN Journal
+LA  - en
+SN  - 1556-5068
+ST  - Revolutionizing Student Engagement
+UR  - https://www.ssrn.com/abstract=4625799
+Y2  - 2024/09/27/01:24:13
+ER  - 
+
+TY  - CONF
+TI  - Library in django framework to standardize early-stage web application development
+AU  - Martinez, David
+AU  - Gonzalez, Diego
+AU  - Sánchez, Juan M.
+AU  - Toasa, Renato M.
+T2  - 2023 18th Iberian Conference on Information Systems and Technologies (CISTI)
+C1  - Aveiro, Portugal
+C3  - 2023 18th Iberian Conference on Information Systems and Technologies (CISTI)
+DA  - 2023/06/20/
+PY  - 2023
+DO  - 10.23919/CISTI58278.2023.10211921
+DP  - DOI.org (Crossref)
+SP  - 1
+EP  - 4
+PB  - IEEE
+SN  - 978-989-33-4792-8
+UR  - https://ieeexplore.ieee.org/document/10211921/
+Y2  - 2024/09/27/01:24:33
+ER  - 
+
+TY  - CONF
+TI  - Analyzing the difference between ReactJS and AngularJS
+AU  - Sharma, Tarun
+AU  - Gupta, Shruti
+AU  - Singh, Uday Raj
+T2  - 2023 International Conference on Computational Intelligence, Communication Technology and Networking (CICTN)
+C1  - Ghaziabad, India
+C3  - 2023 International Conference on Computational Intelligence, Communication Technology and Networking (CICTN)
+DA  - 2023/04/20/
+PY  - 2023
+DO  - 10.1109/CICTN57981.2023.10141276
+DP  - DOI.org (Crossref)
+SP  - 37
+EP  - 42
+PB  - IEEE
+SN  - 9798350338027
+UR  - https://ieeexplore.ieee.org/document/10141276/
+Y2  - 2024/09/27/01:24:46
+ER  - 
+
+TY  - CONF
+TI  - Analysis and comparative evaluation of front-end technologies for web application development
+AU  - Ilievska, Frosina
+AU  - Gramatikov, Sasho
+T2  - ICT Innovations
+AB  - In this dynamic, ever-evolving world of web technology, many development tools are created. Everyone can agree that the programming language JavaScript is already in use and will continue to be popular in the future. Despite the many great JavaScript technologies over the past decade, Angular, React.js, and Vue.js remain the most popular. The construction of a modern single-page application is covered in this study, with an emphasis on the front-end in each of the technologies and the analysis of tests relating to the three key areas of performance, modularity, and usability where data may be evaluated and compared. By analyzing the test findings of the three aspects using the analytical hierarchy process approach, a comparison was produced. This paper provides a response to the question: Which JavaScript framework is best for developing single-page applications in terms of performance, modularity, and usability? In conclusion, React is the most suitable option for a simple single-page frontend application in our case.
+DA  - 2022///
+PY  - 2022
+UR  - http://hdl.handle.net/20.500.12188/25342
+ER  - 
+
+TY  - JOUR
+TI  - A learning curve comparison between React and Angular - Analyzing documentation, ease of use, community support, and modularity
+AU  - Franz, Johan
+AU  - Niklasson, Milton
+AB  - En el mundo en constante expansión de los marcos de JavaScript, puede ser difícil determinar qué marco es el más adecuado para los estudiantes universitarios que se aventuran en aplicaciones web. Este informe de proyecto de grado evalúa dos de los más destacados frameworks, React y Angular, mediante el desarrollo de una aplicación web que necesita mostrar gráficos de datos científicos. El estudio se centra en las cualidades más críticas para el desarrollo web: documentación, facilidad de uso, apoyo comunitario y modularidad. Para graficar datos científicos, la evaluación se basa en las entradas de los usuarios, específicamente de los investigadores, así como en la escalabilidad y funcionalidad que cada marco puede proporcionar. El estudio incluyó el desarrollo de una aplicación web utilizando ambos marcos, con el objetivo de crear la misma aplicación dos veces y luego evaluar el proceso de desarrollo.El objetivo era proporcionar a los estudiantes de ingeniería informática una comprensión más profunda del desarrollo y los desafíos asociados con el uso de dos de los marcos más destacados de la industria. Los resultados destacaron que React superó a Angular en varias áreas clave, particularmente en la facilidad de uso y el apoyo de la comunidad, con React logrando una puntuación promedio de 9.25 en comparación con Angularulars 6.25. La documentación de Reacts y el enfoque estructurado fueron más intuitivos y beneficiosos para los desarrolladores con experiencia a nivel universitario. Si bien ambos marcos requerían el uso de D3.js para las capacidades de gráficos, el proceso de integración de Reactatss fue más fluido y eficiente. Estos hallazgos tienen como objetivo guiar a los estudiantes en la elección del marco más adecuado para sus necesidades en el desarrollo de aplicaciones webenfatizando React como la opción más adecuada para aquellos que buscan un marco sencillo y bien respaldado.
+DA  - 2024///
+PY  - 2024
+UR  - http://hdl.handle.net/20.500.12380/308587
+ER  - 
+
+TY  - THES
+TI  - Design and implementation of web components
+AU  - Mostafa ASADOLLAHY
+AB  - In order to improve user experience and application functionality, this thesis explores
+the design and implementation of complex web components for a caregiving platform,
+making use of cutting-edge technology. Keycloak was used to integrate secure
+authentication; TypeScript and Redux RTK Query were used to facilitate efficient
+data management; React was used to create user-friendly interfaces with features
+like infinite scrolling and debounced search; and Kepler.gl was utilized to enable
+advanced data visualization for geospatial mapping of patient locations.
+The study makes an important contribution to the field of web development
+by showing the successful integration of several technologies, especially in the
+context of healthcare applications. These include Kepler.gl for perceptive data
+visualization, React and Redux for dynamic and responsive user interfaces, Keycloak
+for strong user authentication, and TypeScript for improved code dependability and
+maintainability. The complicated requirements of healthcare systems are addressed
+by this well-thought-out integration, which focuses on enhancing user interfaces,
+data handling, and security.
+The project’s outcomes highlight the potential of modern web technologies to
+significantly improve the efficiency, security, and user engagement of healthcare
+applications. The integration of these technologies has led to a more maintainable
+and error-resistant codebase, secure and efficient user authentication processes,
+optimized state management, and enhanced data visualization capabilities that
+support caregiver decision-making.
+The produced prototype provides a flexible and clean practical framework
+that forms the basis for future applications. It emphasizes how crucial complete
+technology integration is to tackle the many issues that healthcare services must
+deal with. The thesis ends with research directions that should be pursued, such
+as investigating real-time data updates, improving state management strategies,
+and developing interactive geospatial data visualization tools.
+This summary encapsulates the essence of the thesis, emphasizing the innovative
+integration of technologies and their practical applications in enhancing webbased healthcare services, and provides a clear pathway for future research and
+development in this vital area.
+DA  - 2024///
+PY  - 2024
+UR  - https://webthesis.biblio.polito.it/secure/31815/1/tesi.pdf
+ER  - 
+
+TY  - CONF
+TI  - Comparative Performance Analysis of Javascript Frontend Web Frameworks
+AU  - Tong, Jason
+AU  - Jikson, Ricky Rivaldo
+AU  - Gunawan, Alexander Agung Santoso
+T2  - 2023 3rd International Conference on Electronic and Electrical Engineering and Intelligent System (ICE3IS)
+C1  - Yogyakarta, Indonesia
+C3  - 2023 3rd International Conference on Electronic and Electrical Engineering and Intelligent System (ICE3IS)
+DA  - 2023/08/09/
+PY  - 2023
+DO  - 10.1109/ICE3IS59323.2023.10335250
+DP  - DOI.org (Crossref)
+SP  - 81
+EP  - 86
+PB  - IEEE
+SN  - 9798350327762
+UR  - https://ieeexplore.ieee.org/document/10335250/
+Y2  - 2024/09/27/01:33:28
+ER  - 
+
+TY  - CONF
+TI  - Research and Design of a B/S Platform Information Management System Based on Django and Vue Frameworks
+AU  - Ma, Hongjun
+T2  - 2024 4th Asia-Pacific Conference on Communications Technology and Computer Science (ACCTCS)
+C1  - Shenyang, China
+C3  - 2024 4th Asia-Pacific Conference on Communications Technology and Computer Science (ACCTCS)
+DA  - 2024/02/24/
+PY  - 2024
+DO  - 10.1109/ACCTCS61748.2024.00025
+DP  - DOI.org (Crossref)
+SP  - 103
+EP  - 107
+PB  - IEEE
+SN  - 9798350359985
+UR  - https://ieeexplore.ieee.org/document/10612895/
+Y2  - 2024/09/27/01:34:23
+ER  - 
+
+TY  - JOUR
+TI  - Web Development and Performance Comparison of Web Development Frameworks: A Review Paper.
+AU  - Vayadande, Kuldeep
+AU  - Purohit, Shlok
+AU  - Rathod, Chaitanya
+AU  - Rathod, Manish
+AU  - Rathi, Parth
+AU  - Rathi, Purvesh
+T2  - Grenze International Journal of Engineering & Technology (GIJET), 2024, Vol 10, p2200
+AB  - Web development frameworks help in streamlining and speedy-tracking the system of constructing web packages. There is an array of frameworks which makes it hard for developers to decide the nice option to use in their tasks. This survey paper is extensive and a comparative internet development framework, thinking about the primary additives, strengths and weaknesses of every utility. This paper involves stringent assessment technique for performance measurement metrics inclusive of reaction time, scalability, and memory. Optimization of techniques and the issues on protection for each framework also are taken into consideration. To wrap up, this paper offers steering to be able to help the readers to choose the most appropriate framework depending on their task needs. The data offered on this survey are supposed to guide developers as well as decision makers towards making quality decisions that culminate in appropriate utility on websites.
+DA  - 2024///
+PY  - 2024
+SN  - 2395-5287
+ER  - 
+
+TY  - JOUR
+TI  - Reactjs and Expressjs Implementation In PMK ITB STIKOM Bali Activity Management
+AU  - Frensia Tanaga Anaclaudia
+AU  - Dian Pramana
+AU  - I Made Arya Budhi Saputra
+T2  - Aptisi Transactions on Technopreneurship (ATT)
+AB  - In the Christian Student Brotherhood Student Activity Unit (PMK) ITB Stikom Bali the management of data, information and documentation is still done conventionally, namely hardcopy printing. These documents are vulnerable to being lost, damaged or difficult to find at a later date. Therefore we need a system to be able to manage data, documentation and other information regarding activities in PMK. In developing this activity management application using ReactJS and ExpressJS. This activity management application is expected to be a means of connecting information on activities carried out and making it easier for administrators to be able to store information from activities carried out. There are 5 stages in this research, namely data collection by direct observation of the object under study, literature study and stakeholder interviews. The second stage is an analysis from the user side, the data needed and the existing processes. The third stage is system design using conceptual database design, context diagrams and web architecture. The fourth stage is system implementation using the Javascript programming language with ReactJS on the frontend and ExpressJS on the backend and MongoDB as the database. The last stage is testing the system using the Blackbox testing method which focuses on testing the functionality of the system. The results of this study resulted in a website-based activity management system with predetermined user access as well as a liaison for activity information in the form of activity galleries and activity articles in UKM PMK using ReactJS and ExpressJS.
+DA  - 2023/03/15/
+PY  - 2023
+DO  - 10.34306/att.v5i3.313
+DP  - DOI.org (Crossref)
+VL  - 5
+IS  - 3
+SP  - 1
+EP  - 11
+J2  - att
+SN  - 2656-8888, 2655-8807
+UR  - https://att.aptisi.or.id/index.php/att/article/view/313
+Y2  - 2024/09/27/01:38:08
+ER  - 
+
+TY  - CONF
+TI  - Interpretation and Analysis of Angular Framework
+AU  - Geetha, G.
+AU  - Mittal, Monisha
+AU  - Prasad, K. Mohana
+AU  - Ponsam, J. Godwin
+T2  - 2022 International Conference on Power, Energy, Control and Transmission Systems (ICPECTS)
+C1  - Chennai, India
+C3  - 2022 International Conference on Power, Energy, Control and Transmission Systems (ICPECTS)
+DA  - 2022/12/08/
+PY  - 2022
+DO  - 10.1109/ICPECTS56089.2022.10047474
+DP  - DOI.org (Crossref)
+SP  - 1
+EP  - 6
+PB  - IEEE
+SN  - 978-1-66546-275-4
+UR  - https://ieeexplore.ieee.org/document/10047474/
+Y2  - 2024/09/27/01:39:03
+ER  - 
+
+TY  - JOUR
+TI  - Role of angular in web development
+AU  - Vaibhavi Abhay Dhopate
+AU  - Rahul J. Jadhav
+T2  - JETIR2106518
+AB  - Angular is that the most popular framework for building reactive single-page web applications and artistic elements of the website. because it is that the most used Framework of JavaScript, it absolutely was designed as a full-featured framework to reinforce simplicity and potency. The importance of Angular ahead finish Web Development is given below Developers realize Angular terribly effective in terms of making dynamic, single page application, and supporting MVC (Model-View-Controller) programming structure. At a gift span of your time, within the competitive business surroundings, Angular has emerged because of the superhero because of its intuitiveness and wealthy options. Angular provides some superb capabilities out of the box and may convert your non-trivial jQuery primarily based apps into one thing a lot of powerful and nevertheless a lot easy to keep up with. Some frameworks merely bundle along with the present tools that build app development terribly tough. However, Angular was fastidiously designed to make sure that each tool works optimally and delivers a nice result.
+DA  - 2021///
+PY  - 2021
+VL  - 8
+SN  - 2349-5162
+UR  - https://www.jetir.org/view?paper=JETIR2106518
+KW  - Angular, Web Development, Angular JS
+ER  - 
+
+TY  - JOUR
+TI  - AngularJS Performance: A Survey Study
+AU  - Ramos, Miguel
+AU  - Valente, Marco Tulio
+AU  - Terra, Ricardo
+T2  - IEEE Software
+DA  - 2018/03//
+PY  - 2018
+DO  - 10.1109/MS.2017.265100610
+DP  - DOI.org (Crossref)
+VL  - 35
+IS  - 2
+SP  - 72
+EP  - 79
+J2  - IEEE Softw.
+SN  - 0740-7459, 1937-4194
+ST  - AngularJS Performance
+UR  - https://ieeexplore.ieee.org/document/7950843/
+Y2  - 2024/09/27/01:42:12
+L1  - https://arxiv.org/pdf/1705.02506
+ER  - 
+
+TY  - CONF
+TI  - Comparison and Analysis of Popular Frontend Frameworks and Libraries: An Evaluation of Parameters for Frontend Web Development
+AU  - Kaur, Gursheen
+AU  - Tiwari, Raj Gaurang
+T2  - 2023 4th International Conference on Electronics and Sustainable Communication Systems (ICESC)
+C1  - Coimbatore, India
+C3  - 2023 4th International Conference on Electronics and Sustainable Communication Systems (ICESC)
+DA  - 2023/07/06/
+PY  - 2023
+DO  - 10.1109/ICESC57686.2023.10192987
+DP  - DOI.org (Crossref)
+SP  - 1067
+EP  - 1073
+PB  - IEEE
+SN  - 9798350300093
+ST  - Comparison and Analysis of Popular Frontend Frameworks and Libraries
+UR  - https://ieeexplore.ieee.org/document/10192987/
+Y2  - 2024/09/27/01:42:24
+ER  - 
+
+TY  - CONF
+TI  - Big Data for Healthcare: Using Entity-Attribute-Value (EAV) Model to Build a National Platform for Disability Management
+AU  - Nguyen, Thanh Ngoc
+AU  - Nguyen, Long Minh
+AU  - Pham, Thanh
+AU  - Dinh, Minh
+AU  - Khwakhali, Ushik Shrestha
+AU  - Tran, Quang
+T2  - 2023 International Conference on System Science and Engineering (ICSSE)
+C1  - Ho Chi Minh, Vietnam
+C3  - 2023 International Conference on System Science and Engineering (ICSSE)
+DA  - 2023/07/27/
+PY  - 2023
+DO  - 10.1109/ICSSE58758.2023.10227230
+DP  - DOI.org (Crossref)
+SP  - 554
+EP  - 558
+PB  - IEEE
+SN  - 9798350322941
+ST  - Big Data for Healthcare
+UR  - https://ieeexplore.ieee.org/document/10227230/
+Y2  - 2024/09/27/01:42:41
+ER  - 
+
+TY  - CONF
+TI  - A Comparative Analysis of Modern Frontend Frameworks for Building Large-Scale Web Applications
+AU  - Singh, Pancham
+AU  - Srivastava, Mili
+AU  - Kansal, Mrignainy
+AU  - Singh, Aditya Pratap
+AU  - Chauhan, Abhay
+AU  - Gaur, Adarsh
+T2  - 2023 International Conference on Disruptive Technologies (ICDT)
+C1  - Greater Noida, India
+C3  - 2023 International Conference on Disruptive Technologies (ICDT)
+DA  - 2023/05/11/
+PY  - 2023
+DO  - 10.1109/ICDT57929.2023.10150911
+DP  - DOI.org (Crossref)
+SP  - 531
+EP  - 535
+PB  - IEEE
+SN  - 9798350323887
+UR  - https://ieeexplore.ieee.org/document/10150911/
+Y2  - 2024/09/27/01:43:05
+ER  - 
+
+TY  - CONF
+TI  - MobVis: A Framework for Analysis and Visualization of Mobility Traces
+AU  - Silva, Lucas N.
+AU  - Rettore, Paulo H.L.
+AU  - Mota, Vinicius F.S.
+AU  - Santos, Bruno P.
+T2  - 2022 IEEE Symposium on Computers and Communications (ISCC)
+C1  - Rhodes, Greece
+C3  - 2022 IEEE Symposium on Computers and Communications (ISCC)
+DA  - 2022/06/30/
+PY  - 2022
+DO  - 10.1109/ISCC55528.2022.9912988
+DP  - DOI.org (Crossref)
+SP  - 1
+EP  - 6
+PB  - IEEE
+SN  - 978-1-66549-792-3
+ST  - MobVis
+UR  - https://ieeexplore.ieee.org/document/9912988/
+Y2  - 2024/09/27/01:43:42
+ER  - 
+
+TY  - JOUR
+TI  - Modern Web Frameworks: A Comparison of Rendering Performance
+AU  - Ollila, Risto
+AU  - Mäkitalo, Niko
+AU  - Mikkonen, Tommi
+T2  - Journal of Web Engineering
+AB  - Recent years have seen the rise of a new generation of UI frameworks for web application development. These frameworks differ from previous generations of JavaScript frameworks in that they define a declarative application development model, where transitions in the state of the UI are managed by the framework. This potentially greatly simplifies application development, but requires the framework to implement a rendering strategy which translates changes in application state into changes in the state of the UI. The performance characteristics of these rendering strategies have thus far been poorly studied.
+In this article, we describe the rendering strategies used in the frameworks Angular, React, Vue, Svelte and Blazor, which represent some of the most influential and widely used modern web frameworks. We find significant differences in the scaling of costs in their rendering strategies with potentially equally significant practical performance implications. To verify these differences, we implement a number of benchmarks that measure the scaling of rendering costs as an application grows in complexity.
+The results of our benchmarks confirm that under certain circumstances, performance differences between frameworks can range up to several orders of magnitude when performing the same tasks. Furthermore, we find that the relative performance of a rendering strategy can be effectively estimated based on factors affecting the input sizes of render loops. The best performing rendering strategies are found to be ones which minimize input sizes using techniques such as compile-time optimization and reactive programming models.
+DA  - 2022/03/22/
+PY  - 2022
+DO  - 10.13052/jwe1540-9589.21311
+DP  - DOI.org (Crossref)
+J2  - JWE
+SN  - 1544-5976, 1540-9589
+ST  - Modern Web Frameworks
+UR  - https://journals.riverpublishers.com/index.php/JWE/article/view/7217
+Y2  - 2024/09/27/01:44:05
+ER  - 
+
+TY  - JOUR
+TI  - Evolution of Popularity and Multiaspectual Comparison of Widely Used Web Development Frameworks
+AU  - Swacha, Jakub
+AU  - Kulpa, Artur
+T2  - Electronics
+AB  - Since the emergence of the first web development frameworks at the turn of the 21st century, many of them have made a name for themselves and rose to wide popularity only to be later ousted by newer frameworks and sometimes even fall to obscurity. In our paper, we would like to depict the last fifteen years of the changing popularity of web development frameworks by observing the number of newly created repositories in open-source projects hosted at GitHub that were based on them as well as the number of questions posted on Stack Overflow regarding the respective frameworks. We analyze the correspondence between these two indicators and put them in the context of the popularity of the programming languages that the respective frameworks are based on, as measured by the TIOBE Programming Community index, in an effort to check whether one source could be used to forecast another.
+DA  - 2023/08/23/
+PY  - 2023
+DO  - 10.3390/electronics12173563
+DP  - DOI.org (Crossref)
+VL  - 12
+IS  - 17
+SP  - 3563
+J2  - Electronics
+LA  - en
+SN  - 2079-9292
+UR  - https://www.mdpi.com/2079-9292/12/17/3563
+Y2  - 2024/09/27/01:48:15
+L1  - https://www.mdpi.com/2079-9292/12/17/3563/pdf?version=1692786955
+ER  - 
+
+TY  - JOUR
+TI  - Comparative Analysis Study of Front-End JavaScript Frameworks Performance Using Lighthouse Tool
+AU  - Siahaan, Mangapul
+AU  - Vianto, Vincent Octarian
+T2  - Jurnal Mantik
+DA  - 2022///
+PY  - 2022
+VL  - 6
+IS  - 3
+SP  - 2462
+EP  - 2468
+ER  - 
+
+TY  - JOUR
+TI  - A performance comparison of rendering strategies in open source web frontend frameworks
+AU  - Ollila, Risto
+AU  - others
+T2  - University of Helsinki, Master’s Thesis, https://helda. helsinki. fi/items/e4b8169d-779b-41e0-a784-dba708902320,(20.10. 2023)
+DA  - 2021///
+PY  - 2021
+ER  - 
+
+TY  - CHAP
+TI  - Analysis and Comparison of Different Frontend Frameworks
+AU  - Rathinam, Suryaansh
+T2  - Applications and Techniques in Information Security
+A2  - Prabhu, Srikanth
+A2  - Pokhrel, Shiva Raj
+A2  - Li, Gang
+CY  - Singapore
+DA  - 2023///
+PY  - 2023
+DP  - DOI.org (Crossref)
+VL  - 1804
+SP  - 243
+EP  - 257
+LA  - en
+PB  - Springer Nature Singapore
+SN  - 978-981-9922-63-5 978-981-9922-64-2
+UR  - https://link.springer.com/10.1007/978-981-99-2264-2_19
+Y2  - 2024/09/27/01:51:33
+ER  - 
+
+TY  - JOUR
+TI  - The Effects of Architectural Design Decisions on Framework Adoption: A Comparative Evaluation of Meta-Frameworks in Modern Web Development
+AU  - Hassan Noor, Joel
+T2  - Master’s Programme in Computer, Communication and Information Sciences
+AB  - The rise of JavaScript meta-frameworks has transformed the development of web applications in recent years. Alongside established frameworks, such as Next.js, more recent entrants, such as Astro and Qwik City have introduced novel approaches centred on simplifying developer experience and improving the perceived performance of applications for users. The competitive nature of the meta-framework space and the long-term impact of framework choice on projects calls for an understanding of the factors that drive framework adoption.
+
+This research first delineates extensibility, ease of migration and updates as a set of adoption factors based on prior research and their relevance to modern metaframeworks. The factors form a basis of evaluating three meta-frameworks—Next.js, Astro, and Qwik City—selected based on their popularity, design, and phase on the innovation curve. A developer survey is conducted to complement the analysis, gathering insights from developers on the value they associate with architectural aspects and their personal experiences with the selected frameworks.
+
+The findings substantiate previous research that identified learnability and extensibility as primary adoption drivers. The main risks driving unadoption involve complexity associated with a high degree of configurability and the perceived framework lock-in due to an abundance of framework-specific concepts. Despite shared authoring experiences across evaluated meta-frameworks, the analysis indicates that newer frameworks are showing potential to considerably enhance user and developer experiences by focusing on a simplified authoring experience, addressing issues related to the transmission of application logic from the server to the client and providing more fine-grained approaches to managing client-side JavaScript.
+DA  - 2024///
+PY  - 2024
+LA  - en
+UR  - https://urn.fi/URN:NBN:fi:aalto-202405263797
+KW  - JavaScript
+KW  - frameworks
+KW  - meta-frameworks
+KW  - adoption
+ER  - 
+
+TY  - JOUR
+TI  - Comparison of Web Page Rendering Methods Based on Next.js Framework Using Page Loading Time Test
+AU  - Hanafi, Roy
+AU  - Haq, Abd
+AU  - Agustin, Ninik
+T2  - Teknika
+AB  - In the rapidly developing digital age, websites have become indispensable for interaction, information dissemination and transaction. To improve the performance of web applications, choosing the right rendering technology is critical. Next.js is a framework designed to overcome React's limitations in server-side rendering. This study investigates the effectiveness of Client-side Rendering (CSR), Server-side Rendering (SSR), and Static Site Generation (SSG) on the Next.js-based Filmku website using the loading time method. The study concentrates on page loading speed, complete page rendering speed, and user experience. The authentication page takes 422 ms to complete the CSR process, which is 57.41% slower than the SSG finish time of 180 ms and 34.88% slower than SSR, which completes the authentication page in 274 ms. On the Profile page, SSG completes the page rendering process much faster, taking only 524 ms, which is 25.79% faster than SSR's completion time of 706 ms and even 13.75% faster than CSR's completion time of 608 ms. The SSG rendering method completed in 1,135 ms on the main page, which is 15.93% faster than the CSR completion time of 1,350 ms and 25.57% faster than the SSR completion time of 1,525 ms. It is evident that SSG has a faster rendering speed compared to the other methods. However, it should be noted that CSR may result in slower initial page load times. SSR can provide stable rendering times, but it can also burden the server as every client request is fully processed on the server.
+DA  - 2024/03/13/
+PY  - 2024
+DO  - 10.34148/teknika.v13i1.769
+DP  - DOI.org (Crossref)
+VL  - 13
+IS  - 1
+SP  - 102
+EP  - 108
+J2  - teknika
+SN  - 2549-8045, 2549-8037
+UR  - https://ejournal.ikado.ac.id/index.php/teknika/article/view/769
+Y2  - 2024/09/27/01:55:15
+L1  - https://ejournal.ikado.ac.id/index.php/teknika/article/download/769/310
+ER  - 
+
+TY  - JOUR
+TI  - Análisis de Frameworks Frontend para Aplicar UX/IU en el Desarrollo Web: Una Revisión Sistemática
+AU  - Tituaña Sangucho, Jessica Patricia
+AU  - Ojeda Carrasco, José Luis
+AU  - Girón Rodríguez, Jean Pierre
+AU  - Bonilla Granja, Dennis Steven
+AU  - Jara Moya, Santiago
+T2  - Ciencia Latina Revista Científica Multidisciplinar
+AB  - Basado en una revisión sistemática de frameworks frontend para aplicaciones web, este artículo presenta un análisis exhaustivo de varios frameworks populares, evaluando sus características, ventajas y desventajas en términos de experiencia del usuario (UX) y la interfaz de usuario (UI). La metodología utilizada incluyó una búsqueda exhaustiva en bases de datos académicas utilizando criterios específicos, seleccionando estudios que compararon al menos dos frameworks frontend prominentes. Se examinaron diversas métricas, como funcionalidad, confiabilidad, usabilidad, eficiencia y portabilidad, empleando normas ISO y metodologías como QSOS e IQMC. Los hallazgos presentados resaltan aspectos críticos sobre la calidad y rendimiento de frameworks como Spring, Django, Angular, React, Vue.js, Laravel, entre otros. Se proporciona una visión comparativa detallada, ofreciendo orientación clave para desarrolladores y diseñadores en la selección de herramientas adecuadas para optimizar la experiencia del usuario y la interfaz en proyectos web. Este análisis contribuye significativamente al campo del desarrollo web al identificar los puntos fuertes y débiles de los frameworks frontend más utilizados, ayudando a los profesionales a tomar decisiones informadas sobre la implementación de tecnologías que mejoren la calidad de la UX/UI en aplicaciones web.
+DA  - 2024/06/03/
+PY  - 2024
+DO  - 10.37811/cl_rcm.v8i3.11290
+DP  - DOI.org (Crossref)
+VL  - 8
+IS  - 3
+SP  - 841
+EP  - 862
+J2  - Ciencia Latina
+SN  - 2707-2215, 2707-2207
+ST  - Análisis de Frameworks Frontend para Aplicar UX/IU en el Desarrollo Web
+UR  - https://ciencialatina.org/index.php/cienciala/article/view/11290
+Y2  - 2024/09/27/01:56:23
+L1  - https://ciencialatina.org/index.php/cienciala/article/download/11290/16544
+ER  - 
+
+TY  - JOUR
+TI  - Rendering performance comparison of react, vue, next, and nuxt
+AU  - Siahaan, Mangapul
+AU  - Kenidy, Ryan
+T2  - Jurnal Mantik
+DA  - 2023///
+PY  - 2023
+VL  - 7
+IS  - 3
+SP  - 1851
+EP  - 1860
+ER  - 
+
+TY  - GEN
+TI  - A Comparative Analysis of Next. js, SvelteKit, and Astro for E-commerce Web Development
+AU  - Kroon Celander, Erik
+AU  - Möllestål, Amanda
+DA  - 2024///
+PY  - 2024
+ER  - 
+
+TY  - CONF
+TI  - Performance Analysis of Hooks Functionality in React and Vue Frameworks
+AU  - Sianandar, Jason
+AU  - Kerthyayana Manuaba, Ida Bagus
+T2  - 2022 International Conference on Information Management and Technology (ICIMTech)
+C1  - Semarang, Indonesia
+C3  - 2022 International Conference on Information Management and Technology (ICIMTech)
+DA  - 2022/08/11/
+PY  - 2022
+DO  - 10.1109/ICIMTech55957.2022.9915183
+DP  - DOI.org (Crossref)
+SP  - 139
+EP  - 143
+PB  - IEEE
+SN  - 978-1-66545-090-4
+UR  - https://ieeexplore.ieee.org/document/9915183/
+Y2  - 2024/09/27/02:01:47
+ER  - 
+
+TY  - JOUR
+TI  - DOM benchmark comparison of the front-end JavaScript frameworks React, Angular, Vue, and Svelte
+AU  - Levlin, Mattias
+DA  - 2020///
+PY  - 2020
+ER  - 
+
+TY  - JOUR
+TI  - Assisting JavaScript Front-End Developers in Maintaining and Evolving React-Based Applications: Code Smells and Refactoring Operations
+AU  - da Silva Ferreira, Fábio
+AU  - others
+DA  - 2023///
+PY  - 2023
+ER  - 
+
+TY  - CONF
+TI  - Front End Application Security: Proposal for a New Approach.
+AU  - Ribeiro, Renato Carauta
+AU  - Canedo, Edna Dias
+AU  - Praciano, Bruno JG
+AU  - Pinheiro, Gabriel PM
+AU  - de Mendonça, Fábio Lúcio Lopes
+AU  - de Sousa Jr, Rafael T
+C3  - ICEIS (2)
+DA  - 2020///
+PY  - 2020
+SP  - 233
+EP  - 241
+ER  - 
+
+TY  - THES
+TI  - A Reengineering Framework for the Migration of a Legacy Front End
+AU  - Valjakka, Andreas
+DA  - 2019///
+PY  - 2019
+M3  - Master's Thesis
+ER  - 
+
+TY  - JOUR
+TI  - Usability analysis of AngularJS framework in the context of simple internet application
+AU  - Pawelec, Krzysztof
+T2  - Journal of Computer Sciences Institute
+DA  - 2018///
+PY  - 2018
+VL  - 7
+SP  - 178
+EP  - 182
+ER  - 
+
+TY  - CONF
+TI  - Descriptive Analysis of Built-in Security Features in Web Development Frameworks
+AU  - Aborujilah, Abdulaziz
+AU  - Adamu, Jibril
+AU  - Shariff, Shafiza Mohd
+AU  - Awang Long, Zalizah
+T2  - 2022 16th International Conference on Ubiquitous Information Management and Communication (IMCOM)
+C1  - Seoul, Korea, Republic of
+C3  - 2022 16th International Conference on Ubiquitous Information Management and Communication (IMCOM)
+DA  - 2022/01/03/
+PY  - 2022
+DO  - 10.1109/IMCOM53663.2022.9721750
+DP  - DOI.org (Crossref)
+SP  - 1
+EP  - 8
+PB  - IEEE
+SN  - 978-1-66542-678-7
+UR  - https://ieeexplore.ieee.org/document/9721750/
+Y2  - 2024/09/27/02:12:27
+ER  - 
+
+TY  - JOUR
+TI  - WEB TECHNOLOGIES COMPARISON BETWEEN NUXT. JS AND ASP .NET
+AU  - Huynh, Thao
+DA  - 2024///
+PY  - 2024
+ER  - 
+
+TY  - JOUR
+TI  - Desarrollo de agenda telefónica con Laravel Framework.
+AU  - Solano Bone, Jean Steven
+DA  - 2023///
+PY  - 2023
+ER  - 
+
+TY  - JOUR
+TI  - Performance analysis of Svelte and Angular applications
+AU  - Białecki, Gabriel
+AU  - Pańczyk, Beata
+T2  - Journal of Computer Sciences Institute
+AB  - The aim of this article is to check if the Svelte-based client part of a web application is more effective than the standard Angular approach. The article presents a comparison of page components rendering times on the basis of two test applications prepared in both frameworks. For the performance tests, scenarios were prepared in which the times of adding and removing a different number of page components were examined. Application tests were performed using the Selenium Webdriver package. The research results clearly showed that the new approach used for DOM manipulation (Svelte v.3.0) is more efficient than the standard solution used in Angular applications (v.10.2).
+DA  - 2021/06/30/
+PY  - 2021
+DO  - 10.35784/jcsi.2633
+DP  - DOI.org (Crossref)
+VL  - 19
+SP  - 139
+EP  - 143
+J2  - jcsi
+SN  - 2544-0764
+UR  - https://ph.pollub.pl/index.php/jcsi/article/view/2633
+Y2  - 2024/09/27/02:16:26
+L1  - https://ph.pollub.pl/index.php/jcsi/article/download/2633/2425
+ER  - 
+
+TY  - JOUR
+TI  - Performance Comparison Between Laravel and ExpressJs Framework Using Apache JMeter
+AU  - Siahaan, Mangapul
+AU  - Wijaya, Ricky Wijaya
+T2  - JOURNAL OF INFORMATICS AND ℡ECOMMUNICATION ENGINEERING
+DA  - 2024///
+PY  - 2024
+VL  - 7
+IS  - 2
+SP  - 545
+EP  - 554
+ER  - 
+
+TY  - GEN
+TI  - A model to evaluate front-end frameworks for single page applications written in JavaScript
+AU  - Abrahamsson, Sara
+DA  - 2023///
+PY  - 2023
+ER  - 
+
+TY  - JOUR
+TI  - Micro frontend architecture for cross framework reusability in practice
+AU  - De Smet, Tim
+T2  - Universiteits Biblio Theek Gent
+DA  - 2020///
+PY  - 2020
+ER  - 
+
+TY  - JOUR
+TI  - Modern front end web architectures with react. js and next. js
+AU  - Lazuardy, Mochammad Fariz Syah
+AU  - Anggraini, Dyah
+T2  - Research Journal of Advanced Engineering and Science
+DA  - 2022///
+PY  - 2022
+VL  - 7
+IS  - 1
+SP  - 132
+EP  - 141
+ER  - 
+
+TY  - THES
+TI  - Improving the initial rendering performance of react applications through contemporary rendering approaches
+AU  - Lonka, Touko
+AU  - others
+DA  - 2023///
+PY  - 2023
+M3  - Master's Thesis
+ER  - 
+
+TY  - THES
+TI  - Análisis comparativo de los frameworks móviles entre vue y angular año 2022
+AU  - Barboto Álvarez, Tito Johnnier
+DA  - 2022///
+PY  - 2022
+M3  - B.S. thesis
+PB  - Babahoyo: UTB-FAFI. 2022
+ER  - 
+
+TY  - JOUR
+TI  - Comparative study on Python web frameworks: Flask and Django
+AU  - Ghimire, Devndra
+DA  - 2020///
+PY  - 2020
+ER  - 
+
+TY  - JOUR
+TI  - Comparison of the performance of tools for creating a SPA application interface - React and Vue.js
+AU  - Boczkowski, Krzysztof
+AU  - Pańczyk, Beata
+T2  - Journal of Computer Sciences Institute
+AB  - The article analyses the performance of currently used tools for creating a SPA application interface. The study was conducted using two applications with the same functionality, implemented in React and Vue.js. The tools available in web browsers and appropriate implementations of own methods were used to measure SPA performance.
+DA  - 2020/03/30/
+PY  - 2020
+DO  - 10.35784/jcsi.1579
+DP  - DOI.org (Crossref)
+VL  - 14
+SP  - 73
+EP  - 77
+J2  - jcsi
+SN  - 2544-0764
+UR  - https://ph.pollub.pl/index.php/jcsi/article/view/1579
+Y2  - 2024/09/27/02:23:36
+L1  - https://ph.pollub.pl/index.php/jcsi/article/download/1579/1265
+ER  - 
+
+TY  - JOUR
+TI  - Comparison: Angular vs. React vs. Vue. Which framework is the best choice?
+AU  - Cincović, Jelica
+AU  - Punt, Marija
+T2  - Universidad de Belgrade
+DA  - 2020///
+PY  - 2020
+ER  - 
+
+TY  - JOUR
+TI  - Comparative analysis of React, Next and Gatsby programming frameworks for creating SPA applications
+AU  - Świątkowski, Adam
+AU  - Ścibior, Karol
+T2  - Journal of Computer Sciences Institute
+AB  - This article presents a performance analysis of some of the most popular development frameworks based on the React library. The aim of the study was to show which of the technologies used to create the visual parts of web applications is the most efficient. The research was conducted with the use of 3 applications representing the same research content but based on the above-mentioned frontend technologies. In order to evaluate the performance, web browser development tools and React library were used, which proved that vanilla React is the most efficient for rendering pages with a lot of data.
+DA  - 2022/09/30/
+PY  - 2022
+DO  - 10.35784/jcsi.2972
+DP  - DOI.org (Crossref)
+VL  - 24
+SP  - 224
+EP  - 227
+J2  - jcsi
+SN  - 2544-0764
+UR  - https://ph.pollub.pl/index.php/jcsi/article/view/2972
+Y2  - 2024/09/27/02:24:37
+L1  - https://ph.pollub.pl/index.php/jcsi/article/download/2972/2707
+ER  - 
+
+TY  - JOUR
+TI  - Web application performance analysis using Angular, React and Vue.js frameworks
+AU  - Bielak, Konrad
+AU  - Borek, Bartłomiej
+AU  - Plechawska-Wójcik, Małgorzata
+T2  - Journal of Computer Sciences Institute
+AB  - The aim of the work is to conduct a performance analysis and, on its basis, to indicate the most user-friendly and fastest operating framework. Three Internet applications have been written to test the speed of operation of selected technologies. Some of the most popular frameworks were analyzed: Angular, React and Vue. Static comparative criteria used in the work are: favorable and generally available documentation, application development, speed of application development, development and support by creators. The practical criteria are the times measured during the execution of the tests. The tests were performed with simple operations using the CRUD (Create Read Update Delete) function. The performance analysis carried out in this way shows the differences between the frameworks. The following developerPersian tools were used for the comparative analysis: Google Analytics, Google Chrome, Mozilla Firefox, Chrome DevTools.
+DA  - 2022/06/30/
+PY  - 2022
+DO  - 10.35784/jcsi.2827
+DP  - DOI.org (Crossref)
+VL  - 23
+SP  - 77
+EP  - 83
+J2  - jcsi
+SN  - 2544-0764
+UR  - https://ph.pollub.pl/index.php/jcsi/article/view/2827
+Y2  - 2024/09/27/02:24:58
+L1  - https://ph.pollub.pl/index.php/jcsi/article/download/2827/2658
+ER  - 
+
+TY  - GEN
+TI  - Are the frameworks good enough?: A study of performance implications of JavaScript framework choice through load-and stress-testing Angular, Vue, React and Svelte
+AU  - Marx-Raacz Von Hidvég, Tomas
+DA  - 2022///
+PY  - 2022
+ER  - 
+
+TY  - GEN
+TI  - Javascript frontend web app frameworks: React vs Svelte
+AU  - Haider, Ali
+DA  - 2022///
+PY  - 2022
+ER  - 
+
+TY  - JOUR
+TI  - IOCBIO Kinetics: An open-source software solution for analysis of data traces
+AU  - Vendelin, Marko
+AU  - Laasmaa, Martin
+AU  - Kalda, Mari
+AU  - Branovets, Jelena
+AU  - Karro, Niina
+AU  - Barsunova, Karina
+AU  - Birkedal, Rikke
+T2  - PLOS Computational Biology
+A2  - Marz, Manja
+AB  - Biological measurements frequently involve measuring parameters as a function of time, space, or frequency. Later, during the analysis phase of the study, the researcher splits the recorded data trace into smaller sections, analyzes each section separately by finding a mean or fitting against a specified function, and uses the analysis results in the study. Here, we present the software that allows to analyze these data traces in a manner that ensures repeatability of the analysis and simplifies the application of FAIR (findability, accessibility, interoperability, and reusability) principles in such studies. At the same time, it simplifies the routine data analysis pipeline and gives access to a fast overview of the analysis results. For that, the software supports reading the raw data, processing the data as specified in the protocol, and storing all intermediate results in the laboratory database. The software can be extended by study- or hardware-specific modules to provide the required data import and analysis facilities. To simplify the development of the data entry web interfaces, that can be used to enter data describing the experiments, we released a web framework with an example implementation of such a site. The software is covered by open-source license and is available through several online channels.
+DA  - 2020/12/22/
+PY  - 2020
+DO  - 10.1371/journal.pcbi.1008475
+DP  - DOI.org (Crossref)
+VL  - 16
+IS  - 12
+SP  - e1008475
+J2  - PLoS Comput Biol
+LA  - en
+SN  - 1553-7358
+ST  - IOCBIO Kinetics
+UR  - https://dx.plos.org/10.1371/journal.pcbi.1008475
+Y2  - 2024/09/27/02:30:39
+L1  - https://journals.plos.org/ploscompbiol/article/file?id=10.1371/journal.pcbi.1008475&type=printable
+ER  - 
+
+TY  - JOUR
+TI  - CircadiPy: An open-source toolkit for analyzing chronobiology time series
+AU  - Carvalho-Moreira, João Pedro
+AU  - De Oliveira Guarnieri, Leonardo
+AU  - Passos, Matheus Costa
+AU  - Emrich, Felipe
+AU  - Bargi-Souza, Paula
+AU  - Peliciari-Garcia, Rodrigo Antonio
+AU  - Moraes, Márcio Flávio Dutra
+T2  - Journal of Neuroscience Methods
+DA  - 2024/11//
+PY  - 2024
+DO  - 10.1016/j.jneumeth.2024.110245
+DP  - DOI.org (Crossref)
+VL  - 411
+SP  - 110245
+J2  - Journal of Neuroscience Methods
+LA  - en
+SN  - 01650270
+ST  - CircadiPy
+UR  - https://linkinghub.elsevier.com/retrieve/pii/S0165027024001900
+Y2  - 2024/09/27/02:31:29
+ER  - 
+
+TY  - JOUR
+TI  - CIRCADA: shiny apps for exploration of experimental and synthetic circadian time series with an educational emphasis
+AU  - Cenek, Lisa
+AU  - Klindziuk, Liubou
+AU  - Lopez, Cindy
+AU  - McCartney, Eleanor
+AU  - Martin Burgos, Blanca
+AU  - Tir, Selma
+AU  - Harrington, Mary E
+AU  - Leise, Tanya L
+T2  - Journal of biological rhythms
+DA  - 2020///
+PY  - 2020
+VL  - 35
+IS  - 2
+SP  - 214
+EP  - 222
+ER  - 
+
+TY  - JOUR
+TI  - SIGNAL: A web-based iterative analysis platform integrating pathway and network approaches optimizes hit selection from genome-scale assays
+AU  - Katz, Samuel
+AU  - Song, Jian
+AU  - Webb, Kyle P.
+AU  - Lounsbury, Nicolas W.
+AU  - Bryant, Clare E.
+AU  - Fraser, Iain D.C.
+T2  - Cell Systems
+DA  - 2021/04//
+PY  - 2021
+DO  - 10.1016/j.cels.2021.03.001
+DP  - DOI.org (Crossref)
+VL  - 12
+IS  - 4
+SP  - 338
+EP  - 352.e5
+J2  - Cell Systems
+LA  - en
+SN  - 24054712
+ST  - SIGNAL
+UR  - https://linkinghub.elsevier.com/retrieve/pii/S2405471221000818
+Y2  - 2024/09/27/02:32:51
+L1  - https://www.cell.com/article/S2405471221000818/pdf
+ER  - 
+
+TY  - JOUR
+TI  - BaSDAS: a web-based pooled CRISPR-Cas9 knockout screening data analysis system
+AU  - Park, Young-Kyu
+AU  - Yoon, Byoung-Ha
+AU  - Park, Seung-Jin
+AU  - Kim, Byung Kwon
+AU  - Kim, Seon-Young
+T2  - Genomics & Informatics
+DA  - 2020/12/31/
+PY  - 2020
+DO  - 10.5808/GI.2020.18.4.e46
+DP  - DOI.org (Crossref)
+VL  - 18
+IS  - 4
+SP  - e46
+J2  - Genomics Inform
+LA  - en
+SN  - 2234-0742
+ST  - BaSDAS
+UR  - http://genominfo.org/journal/view.php?doi=10.5808/GI.2020.18.4.e46
+Y2  - 2024/09/27/02:33:13
+L1  - https://genominfo.org/upload/pdf/gi-2020-18-4-e46.pdf
+ER  - 
+
+TY  - JOUR
+TI  - Vesicle Viewer: Online visualization and analysis of small-angle scattering from lipid vesicles
+AU  - Lewis-Laurent, Aislyn
+AU  - Doktorova, Milka
+AU  - Heberle, Frederick A.
+AU  - Marquardt, Drew
+T2  - Biophysical Journal
+DA  - 2021/11//
+PY  - 2021
+DO  - 10.1016/j.bpj.2021.09.018
+DP  - DOI.org (Crossref)
+VL  - 120
+IS  - 21
+SP  - 4639
+EP  - 4648
+J2  - Biophysical Journal
+LA  - en
+SN  - 00063495
+ST  - Vesicle Viewer
+UR  - https://linkinghub.elsevier.com/retrieve/pii/S0006349521007529
+Y2  - 2024/09/27/02:33:40
+L1  - https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8595566/pdf/main.pdf
+ER  - 
+
+TY  - JOUR
+TI  - <i>ViReMaShiny</i> : an interactive application for analysis of viral recombination data
+AU  - Yeung, Jason
+AU  - Routh, Andrew L
+T2  - Bioinformatics
+A2  - Alkan, Can
+AB  - Abstract
+            
+              Motivation
+              Recombination is an essential driver of virus evolution and adaption, giving rise to new chimeric viruses, structural variants, sub-genomic RNAs and defective RNAs. Next-generation sequencing (NGS) of virus samples, either from experimental or clinical settings, has revealed a complex distribution of recombination events that contributes to intrahost diversity. We and others have previously developed alignment tools to discover and map these diverse recombination events in NGS data. However, there is no standard for data visualization to contextualize events of interest, and downstream analysis often requires bespoke coding.
+            
+            
+              Results
+              We present ViReMaShiny, a web-based application built using the R Shiny framework to allow interactive exploration and point-and-click visualization of viral recombination data provided in BED format generated by computational pipelines such as ViReMa (Viral-Recombination-Mapper).
+            
+            
+              Availability and implementation
+              The application is hosted at https://routhlab.shinyapps.io/ViReMaShiny/ with associated documentation at https://jayeung12.github.io/. Code is available at https://github.com/routhlab/ViReMaShiny.
+            
+            
+              Supplementary information
+              Supplementary data are available at Bioinformatics online.
+DA  - 2022/09/15/
+PY  - 2022
+DO  - 10.1093/bioinformatics/btac522
+DP  - DOI.org (Crossref)
+VL  - 38
+IS  - 18
+SP  - 4420
+EP  - 4422
+LA  - en
+SN  - 1367-4803, 1367-4811
+ST  - <i>ViReMaShiny</i>
+UR  - https://academic.oup.com/bioinformatics/article/38/18/4420/6651833
+Y2  - 2024/09/27/02:34:02
+L1  - https://academic.oup.com/bioinformatics/article-pdf/38/18/4420/49885696/btac522.pdf
+ER  - 
+
+TY  - CONF
+TI  - Interactive web platform for extraction and visualization of scientific journal metrics
+AU  - González, Danny Murillo
+AU  - Añino, Yostin
+T2  - 2023 VI Congreso Internacional en Inteligencia Ambiental, Ingeniería de Software y Salud Electrónica y Móvil (AmITIC)
+C1  - Cali, Colombia
+C3  - 2023 VI Congreso Internacional en Inteligencia Ambiental, Ingeniería de Software y Salud Electrónica y Móvil (AmITIC)
+DA  - 2023/10/25/
+PY  - 2023
+DO  - 10.1109/AmITIC60194.2023.10366362
+DP  - DOI.org (Crossref)
+SP  - 1
+EP  - 7
+PB  - IEEE
+SN  - 9798350318692
+UR  - https://ieeexplore.ieee.org/document/10366362/
+Y2  - 2024/09/27/02:34:16
+ER  - 
+
+TY  - JOUR
+TI  - TimeTrial: An Interactive Application for Optimizing the Design and Analysis of Transcriptomic Time-Series Data in Circadian Biology Research
+AU  - Ness-Cohn, Elan
+AU  - Iwanaszko, Marta
+AU  - Kath, William L.
+AU  - Allada, Ravi
+AU  - Braun, Rosemary
+T2  - Journal of Biological Rhythms
+AB  - The circadian rhythm drives the oscillatory expression of thousands of genes across all tissues, coordinating physiological processes. The effect of this rhythm on health has generated increasing interest in discovering genes under circadian control by searching for periodic patterns in transcriptomic time-series experiments. While algorithms for detecting cycling transcripts have advanced, there remains little guidance quantifying the effect of experimental design and analysis choices on cycling detection accuracy. We present TimeTrial, a user-friendly benchmarking framework using both real and synthetic data to investigate cycle detection algorithms’ performance and improve circadian experimental design. Results show that the optimal choice of analysis method depends on the sampling scheme, noise level, and shape of the waveform of interest and provides guidance on the impact of sampling frequency and duration on cycling detection accuracy. The TimeTrial software is freely available for download and may also be accessed through a web interface. By supplying a tool to vary and optimize experimental design considerations, TimeTrial will enhance circadian transcriptomics studies.
+DA  - 2020/10//
+PY  - 2020
+DO  - 10.1177/0748730420934672
+DP  - DOI.org (Crossref)
+VL  - 35
+IS  - 5
+SP  - 439
+EP  - 451
+J2  - J Biol Rhythms
+LA  - en
+SN  - 0748-7304, 1552-4531
+ST  - TimeTrial
+UR  - http://journals.sagepub.com/doi/10.1177/0748730420934672
+Y2  - 2024/09/27/02:34:45
+L1  - https://journals.sagepub.com/doi/pdf/10.1177/0748730420934672
+ER  - 
+
+TY  - JOUR
+TI  - Asterics: a simple tool for the ExploRation and Integration of omiCS data
+AU  - Maigné, Élise
+AU  - Noirot, Céline
+AU  - Henry, Julien
+AU  - Adu Kesewaah, Yaa
+AU  - Badin, Ludovic
+AU  - Déjean, Sébastien
+AU  - Guilmineau, Camille
+AU  - Krebs, Arielle
+AU  - Mathevet, Fanny
+AU  - Segalini, Audrey
+AU  - Thomassin, Laurent
+AU  - Colongo, David
+AU  - Gaspin, Christine
+AU  - Liaubet, Laurence
+AU  - Vialaneix, Nathalie
+T2  - BMC Bioinformatics
+AB  - Abstract
+            
+              Background
+              The rapid development of omics acquisition techniques has induced the production of a large volume of heterogeneous and multi-level omics datasets, which require specific and sometimes complex analyses to obtain relevant biological information. Here, we present ASTERICS (version 2.5), a publicly available web interface for the analyses of omics datasets.
+            
+            
+              Results
+              ASTERICS is designed to make both standard and complex exploratory and integration analysis workflows easily available to biologists and to provide high quality interactive plots. Special care has been taken to provide a comprehensive documentation of the implemented analyses and to guide users toward sound analysis choices regarding some specific omics data. Data and analyses are organized in a comprehensive graphical workflow within ASTERICS workspace to facilitate the understanding of successive data editions and analyses leading to a given result.
+            
+            
+              Conclusion
+              
+                ASTERICS provides an easy to use platform for omics data exploration and integration. The modular organization of its open source code makes it easy to incorporate new workflows and analyses by external contributors. ASTERICS is available at
+                https://asterics.miat.inrae.fr
+                and can also be deployed using provided docker images.
+DA  - 2023/10/18/
+PY  - 2023
+DO  - 10.1186/s12859-023-05504-9
+DP  - DOI.org (Crossref)
+VL  - 24
+IS  - 1
+SP  - 391
+J2  - BMC Bioinformatics
+LA  - en
+SN  - 1471-2105
+ST  - Asterics
+UR  - https://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-023-05504-9
+Y2  - 2024/09/27/02:36:16
+L1  - https://bmcbioinformatics.biomedcentral.com/counter/pdf/10.1186/s12859-023-05504-9
+ER  - 
+
+TY  - JOUR
+TI  - BEAVR: a browser-based tool for the exploration and visualization of RNA-seq data
+AU  - Perampalam, Pirunthan
+AU  - Dick, Frederick A.
+T2  - BMC Bioinformatics
+AB  - Abstract
+            
+              Background
+              The use of RNA-sequencing (RNA-seq) in molecular biology research and clinical settings has increased significantly over the past decade. Despite its widespread adoption, there is a lack of simple and interactive tools to analyze and explore RNA-seq data. Many established tools require programming or Unix/Bash knowledge to analyze and visualize results. This requirement presents a significant barrier for many researchers to efficiently analyze and present RNA-seq data.
+            
+            
+              Results
+              
+                Here we present , a
+                B
+                rowser-based tool for the
+                E
+                xploration
+                A
+                nd
+                V
+                isualization of
+                R
+                NA-seq data.  is an easy-to-use tool that facilitates interactive analysis and exploration of RNA-seq data.  is developed in R and uses  as its engine for differential gene expression (DGE) analysis, but assumes users have no prior knowledge of R or .  allows researchers to easily obtain a table of differentially-expressed genes with statistical testing and then visualize the results in a series of graphs, plots and heatmaps. Users are able to customize many parameters for statistical testing, dealing with variance, clustering methods and pathway analysis to generate high quality figures.
+              
+            
+            
+              Conclusion
+              
+                simplifies analysis for novice users but also streamlines the RNA-seq analysis process for experts by automating several steps.  and its documentation can be found on GitHub at
+                https://github.com/developerpiru/BEAVR
+                .  is available as a Docker container at
+                https://hub.docker.com/r/pirunthan/beavr
+                .
+DA  - 2020/12//
+PY  - 2020
+DO  - 10.1186/s12859-020-03549-8
+DP  - DOI.org (Crossref)
+VL  - 21
+IS  - 1
+SP  - 221
+J2  - BMC Bioinformatics
+LA  - en
+SN  - 1471-2105
+ST  - BEAVR
+UR  - https://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-020-03549-8
+Y2  - 2024/09/27/02:37:01
+L1  - https://bmcbioinformatics.biomedcentral.com/track/pdf/10.1186/s12859-020-03549-8
+ER  - 
+
+TY  - JOUR
+TI  - GeneCloudOmics: A Data Analytic Cloud Platform for High-Throughput Gene Expression Analysis
+AU  - Helmy, Mohamed
+AU  - Agrawal, Rahul
+AU  - Ali, Javed
+AU  - Soudy, Mohamed
+AU  - Bui, Thuy Tien
+AU  - Selvarajoo, Kumar
+T2  - Frontiers in Bioinformatics
+AB  - Gene expression profiling techniques, such as DNA microarray and RNA-Sequencing, have provided significant impact on our understanding of biological systems. They contribute to almost all aspects of biomedical research, including studying developmental biology, host-parasite relationships, disease progression and drug effects. However, the high-throughput data generations present challenges for many wet experimentalists to analyze and take full advantage of such rich and complex data. Here we present GeneCloudOmics, an easy-to-use web server for high-throughput gene expression analysis that extends the functionality of our previous ABioTrans with several new tools, including protein datasets analysis, and a web interface. GeneCloudOmics allows both microarray and RNA-Seq data analysis with a comprehensive range of data analytics tools in one package that no other current standalone software or web-based tool can do. In total, GeneCloudOmics provides the user access to 23 different data analytical and bioinformatics tasks including reads normalization, scatter plots, linear/non-linear correlations, PCA, clustering (hierarchical, k-means, t-SNE, SOM), differential expression analyses, pathway enrichments, evolutionary analyses, pathological analyses, and protein-protein interaction (PPI) identifications. Furthermore, GeneCloudOmics allows the direct import of gene expression data from the NCBI Gene Expression Omnibus database. The user can perform all tasks rapidly through an intuitive graphical user interface that overcomes the hassle of coding, installing tools/packages/libraries and dealing with operating systems compatibility and version issues, complications that make data analysis tasks challenging for biologists. Thus, GeneCloudOmics is a one-stop open-source tool for gene expression data analysis and visualization. It is freely available at
+              http://combio-sifbi.org/GeneCloudOmics
+              .
+DA  - 2021/11/25/
+PY  - 2021
+DO  - 10.3389/fbinf.2021.693836
+DP  - DOI.org (Crossref)
+VL  - 1
+SP  - 693836
+J2  - Front. Bioinform.
+SN  - 2673-7647
+ST  - GeneCloudOmics
+UR  - https://www.frontiersin.org/articles/10.3389/fbinf.2021.693836/full
+Y2  - 2024/09/27/02:37:19
+L1  - https://www.frontiersin.org/articles/10.3389/fbinf.2021.693836/pdf
+ER  - 
+
+TY  - JOUR
+TI  - STAGEs: A web-based tool that integrates data visualization and pathway enrichment analysis for gene expression studies
+AU  - Koh, Clara W. T.
+AU  - Ooi, Justin S. G.
+AU  - Ong, Eugenia Ziying
+AU  - Chan, Kuan Rong
+T2  - Scientific Reports
+AB  - Abstract
+            
+              Gene expression profiling has helped tremendously in the understanding of biological processes and diseases. However, interpreting processed data to gain insights into biological mechanisms remain challenging, especially to the non-bioinformaticians, as many of these data visualization and pathway analysis tools require extensive data formatting. To circumvent these challenges, we developed STAGEs (
+              S
+              tatic and
+              T
+              emporal
+              A
+              nalysis of
+              G
+              ene
+              E
+              xpression
+              s
+              tudies) that provides an interactive visualisation of omics analysis outputs. Users can directly upload data created from Excel spreadsheets and use STAGEs to render volcano plots, differentially expressed genes stacked bar charts, pathway enrichment analysis by Enrichr and Gene Set Enrichment Analysis (GSEA) against established pathway databases or customized gene sets, clustergrams and correlation matrices. Moreover, STAGEs takes care of Excel gene to date misconversions, ensuring that every gene is considered for pathway analysis. Output data tables and graphs can be exported, and users can easily customize individual graphs using widgets such as sliders, drop-down menus, text boxes and radio buttons. Collectively, STAGEs is an integrative platform for data analysis, data visualisation and pathway analysis, and is freely available at
+              https://kuanrongchan-stages-stages-vpgh46.streamlitapp.com/
+              . In addition, developers can customise or modify the web tool locally based on our existing codes, which is publicly available at
+              https://github.com/kuanrongchan/STAGES
+              .
+DA  - 2023/05/02/
+PY  - 2023
+DO  - 10.1038/s41598-023-34163-2
+DP  - DOI.org (Crossref)
+VL  - 13
+IS  - 1
+SP  - 7135
+J2  - Sci Rep
+LA  - en
+SN  - 2045-2322
+ST  - STAGEs
+UR  - https://www.nature.com/articles/s41598-023-34163-2
+Y2  - 2024/09/27/02:37:49
+L1  - https://www.nature.com/articles/s41598-023-34163-2.pdf
+ER  - 
+
+TY  - JOUR
+TI  - Nitecap: an exploratory circadian analysis web application
+AU  - Brooks, Thomas G
+AU  - Mrčela, Antonijo
+AU  - Lahens, Nicholas F
+AU  - Paschos, Georgios K
+AU  - Grosser, Tilo
+AU  - Skarke, Carsten
+AU  - FitzGerald, Garret A
+AU  - Grant, Gregory R
+T2  - Journal of biological rhythms
+DA  - 2022///
+PY  - 2022
+VL  - 37
+IS  - 1
+SP  - 43
+EP  - 52
+ER  - 
+
+TY  - JOUR
+TI  - Gene Updater: a web tool that autocorrects and updates for Excel misidentified gene names
+AU  - Koh, Clara W. T.
+AU  - Ooi, Justin S. G.
+AU  - Joly, Gabrielle L. C.
+AU  - Chan, Kuan Rong
+T2  - Scientific Reports
+AB  - Abstract
+            
+              Opening and processing gene expression data files in Excel runs into the inadvertent risk of converting gene names to dates. As pathway analysis tools rely on gene symbols to query against pathway databases, the genes that are converted to dates will not be recognized, potentially causing voids in pathway analysis. Molecular pathways related to cell division, exocytosis, cilium assembly, protein ubiquitination and nitric oxide biosynthesis were found to be most affected by Excel auto-conversion. A plausible solution is hence to update these genes and dates to the newly approved gene names as recommended by the HUGO Gene Nomenclature Committee (HGNC), which are resilient to Excel auto-conversion. Herein, we developed a web tool with Streamlit that can convert old gene names and dates back into the new gene names recommended by HGNC. The web app is named Gene Updater, which is open source and can be either hosted locally or at
+              https://share.streamlit.io/kuanrongchan/date-to-gene-converter/main/date_gene_tool.py
+              . Additionally, as Mar-01 and Mar-02 can each be potentially mapped to 2 different gene names, users can assign the date terms to the appropriate gene names within the Gene Updater web tool. This user-friendly web tool ensures that the accuracy and integrity of gene expression data is preserved by minimizing errors in labelling gene names due to Excel auto-conversions.
+DA  - 2022/07/26/
+PY  - 2022
+DO  - 10.1038/s41598-022-17104-3
+DP  - DOI.org (Crossref)
+VL  - 12
+IS  - 1
+SP  - 12743
+J2  - Sci Rep
+LA  - en
+SN  - 2045-2322
+ST  - Gene Updater
+UR  - https://www.nature.com/articles/s41598-022-17104-3
+Y2  - 2024/09/27/02:39:07
+L1  - https://www.nature.com/articles/s41598-022-17104-3.pdf
+ER  - 
+
+TY  - JOUR
+TI  - Appyters: Turning Jupyter Notebooks into data-driven web apps
+AU  - Clarke, Daniel JB
+AU  - Jeon, Minji
+AU  - Stein, Daniel J
+AU  - Moiseyev, Nicole
+AU  - Kropiwnicki, Eryk
+AU  - Dai, Charles
+AU  - Xie, Zhuorui
+AU  - Wojciechowicz, Megan L
+AU  - Litz, Skylar
+AU  - Hom, Jason
+AU  - others
+T2  - Patterns
+DA  - 2021///
+PY  - 2021
+VL  - 2
+IS  - 3
+ER  - 
+
+TY  - CONF
+TI  - Japper: A Comprehensive Framework for Streamlining Jupyter-Based Scientific Web Application Development
+AU  - Kim, I Luk
+AU  - Zhao, Lan
+AU  - Song, Carol
+AU  - Neo, Wei Siong
+AU  - Kelleher, Bridgette
+T2  - PEARC '24: Practice and Experience in Advanced Research Computing
+C1  - Providence RI USA
+C3  - Practice and Experience in Advanced Research Computing 2024: Human Powered Computing
+DA  - 2024/07/17/
+PY  - 2024
+DO  - 10.1145/3626203.3670594
+DP  - DOI.org (Crossref)
+SP  - 1
+EP  - 4
+LA  - en
+PB  - ACM
+SN  - 9798400704192
+ST  - Japper
+UR  - https://dl.acm.org/doi/10.1145/3626203.3670594
+Y2  - 2024/09/27/02:41:16
+ER  - 
+
+TY  - JOUR
+TI  - Playbook Workflow Builder: Interactive Construction of Bioinformatics Workflows from a Network of Microservices
+AU  - Clarke, Daniel JB
+AU  - Evangelista, John Erol
+AU  - Xie, Zhuorui
+AU  - Marino, Giacomo B
+AU  - Maurya, Mano R
+AU  - Srinivasan, Sumana
+AU  - Yu, Keyang
+AU  - Petrosyan, Varduhi
+AU  - Roth, Matthew E
+AU  - Milinkov, Miroslav
+AU  - others
+T2  - bioRxiv
+DA  - 2024///
+PY  - 2024
+SP  - 2024
+EP  - 06
+ER  - 
+
+TY  - JOUR
+TI  - Dr.Emb Appyter: A web platform for drug discovery using embedding vectors
+AU  - Kim, Songhyeon
+AU  - Bong, Hyunsu
+AU  - Jeon, Minji
+T2  - Journal of Computational Chemistry
+AB  - Abstract
+            
+              Using embedding methods, compounds with similar properties will be closely located in latent space, and these embedding vectors can be used to find other compounds with similar properties based on the distance between compounds. However, they often require computational resources and programming skills. Here we develop Dr.Emb Appyter, a user‐friendly web‐based chemical compound search platform for drug discovery without any technical barriers. It uses embedding vectors to identify compounds similar to a given query in the embedding space. Dr.Emb Appyter provides various types of embedding methods, such as fingerprinting, SMILES, and transcriptional response‐based methods, and embeds numerous compounds using them. The Faiss‐based search system efficiently finds the closest compounds of query in the library. Additionally, Dr.Emb Appyter offers information on the top compounds; visualizes the results with 3D scatter plots, heatmaps, and UpSet plots; and analyses the results using a drug‐set enrichment analysis. Dr.Emb Appyter is freely available at
+              https://dremb.korea.ac.kr
+              .
+DA  - 2024/07/29/
+PY  - 2024
+DO  - 10.1002/jcc.27469
+DP  - DOI.org (Crossref)
+SP  - jcc.27469
+J2  - J Comput Chem
+LA  - en
+SN  - 0192-8651, 1096-987X
+ST  - Dr.Emb Appyter
+UR  - https://onlinelibrary.wiley.com/doi/10.1002/jcc.27469
+Y2  - 2024/09/27/02:42:21
+ER  - 
+
+TY  - JOUR
+TI  - OSSCAR, an open platform for collaborative development of computational tools for education in science
+AU  - Du, Dou
+AU  - Baird, Taylor J.
+AU  - Bonella, Sara
+AU  - Pizzi, Giovanni
+T2  - Computer Physics Communications
+DA  - 2023/01//
+PY  - 2023
+DO  - 10.1016/j.cpc.2022.108546
+DP  - DOI.org (Crossref)
+VL  - 282
+SP  - 108546
+J2  - Computer Physics Communications
+LA  - en
+SN  - 00104655
+UR  - https://linkinghub.elsevier.com/retrieve/pii/S001046552200265X
+Y2  - 2024/09/27/02:42:35
+L1  - https://www.sciencedirect.com/science/article/pii/S001046552200265X/pdfft?isDTMRedir=true&download=true
+ER  - 
+
+TY  - JOUR
+TI  - PrismEXP: gene annotation prediction from stratified gene-gene co-expression matrices
+AU  - Lachmann, Alexander
+AU  - Rizzo, Kaeli A.
+AU  - Bartal, Alon
+AU  - Jeon, Minji
+AU  - Clarke, Daniel J. B.
+AU  - Ma’ayan, Avi
+T2  - PeerJ
+AB  - Background
+              Gene-gene co-expression correlations measured by mRNA-sequencing (RNA-seq) can be used to predict gene annotations based on the co-variance structure within these data. In our prior work, we showed that uniformly aligned RNA-seq co-expression data from thousands of diverse studies is highly predictive of both gene annotations and protein-protein interactions. However, the performance of the predictions varies depending on whether the gene annotations and interactions are cell type and tissue specific or agnostic. Tissue and cell type-specific gene-gene co-expression data can be useful for making more accurate predictions because many genes perform their functions in unique ways in different cellular contexts. However, identifying the optimal tissues and cell types to partition the global gene-gene co-expression matrix is challenging.
+            
+            
+              Results
+              Here we introduce and validate an approach called PRediction of gene Insights from Stratified Mammalian gene co-EXPression (PrismEXP) for improved gene annotation predictions based on RNA-seq gene-gene co-expression data. Using uniformly aligned data from ARCHS4, we apply PrismEXP to predict a wide variety of gene annotations including pathway membership, Gene Ontology terms, as well as human and mouse phenotypes. Predictions made with PrismEXP outperform predictions made with the global cross-tissue co-expression correlation matrix approach on all tested domains, and training using one annotation domain can be used to predict annotations in other domains.
+            
+            
+              Conclusions
+              
+                By demonstrating the utility of PrismEXP predictions in multiple use cases we show how PrismEXP can be used to enhance unsupervised machine learning methods to better understand the roles of understudied genes and proteins. To make PrismEXP accessible, it is provided
+                via
+                a user-friendly web interface, a Python package, and an Appyter. AVAILABILITY. The PrismEXP web-based application, with pre-computed PrismEXP predictions, is available from:
+                https://maayanlab.cloud/prismexp
+                ; PrismEXP is also available as an Appyter:
+                https://appyters.maayanlab.cloud/PrismEXP/
+                ; and as Python package:
+                https://github.com/maayanlab/prismexp
+                .
+DA  - 2023/02/27/
+PY  - 2023
+DO  - 10.7717/peerj.14927
+DP  - DOI.org (Crossref)
+VL  - 11
+SP  - e14927
+LA  - en
+SN  - 2167-8359
+ST  - PrismEXP
+UR  - https://peerj.com/articles/14927
+Y2  - 2024/09/27/02:43:20
+L1  - https://peerj.com/articles/14927.pdf
+ER  - 
+
+TY  - JOUR
+TI  - Toward Secure Web Application Design: Comparative Analysis of Major Languages and Framework Choices
+AU  - Tipton, Stephen J
+AU  - Choi, Young B
+T2  - International Journal of Advanced Computer Science and Applications
+DA  - 2016///
+PY  - 2016
+VL  - 7
+IS  - 2
+ER  - 
+
+TY  - THES
+TI  - Security Analysis Methodology for Student Web Applications: A Case Study of the Mills College Computer Science Department Alumni Website
+AU  - Diaz, Jennifer
+DA  - 2018///
+PY  - 2018
+M3  - Master's Thesis
+PB  - Mills College
+ER  - 
+
+TY  - JOUR
+TI  - A Platform for Inpatient Safety Management Based on IoT Technology
+AU  - Arrieta Rodriguez, Eugenia
+AU  - Murillo Fernandez, Luis Fernando
+AU  - Castañez Orta, Gustavo Adolfo
+AU  - Rivas Horta, Ana Milena
+AU  - Baldovino Barco, Carlos
+AU  - Jimenez Barrionuevo, Kellys
+AU  - Cama-Pinto, Dora
+AU  - Arrabal-Campos, Francisco Manuel
+AU  - Martínez-Lao, Juan Antonio
+AU  - Cama-Pinto, Alejandro
+T2  - Inventions
+AB  - There is a need to integrate advancements in biomedical, information, and communication technologies with care processes within the framework of the inpatient safety program to support effective risk management of adverse events occurring in the hospital environment and to improve inpatient safety. In this respect, this work presents the development of a software platform using the Scrum methodology and the integrated technology of the Internet of Things for monitoring and managing inpatient safety. A modular solution is developed under a hexagonal architecture, using PHP as the backend language through the Laravel framework. A MySQL database was used for the data layer, and Vue.js was used for the user interface. This work implemented an RFID-based nurse call system using Internet of Things (IoT) concepts. The system enables nurses to respond to each inpatient within a given time limit and without the inpatient or a family member having to approach the nursing station. The system also provides reports and indicators that help evaluate the quality of inpatient care and helps to take measures to improve inpatient safety during care. In addition, diet management is integrated to reduce the occurrence of adverse events. A LoRa and Wi-Fi-based IoT network was implemented using a LoRa transceiver and the ESP32 MCU, chosen for its low power consumption, low cost, and wide availability. Bidirectional communication between hardware and software is handled through an MQTT Broker. The system integrates temperature and humidity sensors and smoke sensors, among others.
+DA  - 2022/12/07/
+PY  - 2022
+DO  - 10.3390/inventions7040116
+DP  - DOI.org (Crossref)
+VL  - 7
+IS  - 4
+SP  - 116
+J2  - Inventions
+LA  - en
+SN  - 2411-5134
+UR  - https://www.mdpi.com/2411-5134/7/4/116
+Y2  - 2024/09/27/02:48:19
+L1  - https://www.mdpi.com/2411-5134/7/4/116/pdf?version=1670415162
+ER  - 
+
+TY  - JOUR
+TI  - Implementation of an efficient web-based movie ticket purchasing system in the context of Bangladesh
+AU  - Islam, Gazi Zahirul
+AU  - Zinnia, Isrut Jahan
+AU  - Hossain, Md Fokhray
+AU  - Rahman, Md Riazur
+AU  - Juman, A
+AU  - Emran, AN Bin
+T2  - Indonesian Journal of Electrical Engineering and Computer Science
+DA  - 2020///
+PY  - 2020
+VL  - 19
+IS  - 3
+SP  - 828
+EP  - 836
+ER  - 
+
+TY  - JOUR
+TI  - Hybrid Security AssessmentMethodology forWeb Applications
+AU  - A. Correa, Roddy
+AU  - Ram髇 Bermejo Higuera, Juan
+AU  - Bermejo Higuera, Javier
+AU  - Antonio SiciliaMontalvo, Juan
+AU  - S醤chez Rubio, Manuel
+AU  - Alberto Magre襻n, �
+T2  - Computer Modeling in Engineering & Sciences
+DA  - 2021///
+PY  - 2021
+DO  - 10.32604/cmes.2021.010700
+DP  - DOI.org (Crossref)
+VL  - 126
+IS  - 1
+SP  - 89
+EP  - 124
+LA  - en
+SN  - 1526-1506
+UR  - https://www.techscience.com/CMES/v126n1/40863
+Y2  - 2024/09/27/02:49:58
+L1  - https://file.techscience.com/uploads/attached/file/20201222/20201222031808_36801.pdf
+ER  - 
+
+TY  - JOUR
+TI  - A Comparative study of PHP frameworks performance
+AU  - Laaziri, Majida
+AU  - Benmoussa, Khaoula
+AU  - Khoulji, Samira
+AU  - Kerkeb, Mohamed Larbi
+T2  - Procedia Manufacturing
+DA  - 2019///
+PY  - 2019
+DO  - 10.1016/j.promfg.2019.02.295
+DP  - DOI.org (Crossref)
+VL  - 32
+SP  - 864
+EP  - 871
+J2  - Procedia Manufacturing
+LA  - en
+SN  - 23519789
+UR  - https://linkinghub.elsevier.com/retrieve/pii/S2351978919303312
+Y2  - 2024/09/27/02:50:20
+L1  - https://www.sciencedirect.com/science/article/pii/S2351978919303312/pdfft?isDTMRedir=true&download=true
+ER  - 
+
+TY  - CONF
+TI  - Mining Developer Questions about Major Web Frameworks.
+AU  - Mehrab, Zakaria
+AU  - Yousuf, Raquib Bin
+AU  - Tahmid, Ibrahim Asadullah
+AU  - Shahriyar, Rifat
+C3  - WEBIST
+DA  - 2018///
+PY  - 2018
+SP  - 191
+EP  - 198
+ER  - 
+
+TY  - CHAP
+TI  - SelecWeb: A Software Tool for Automatic Selection of Web Frameworks
+AU  - Muhammed, Thaha
+AU  - Mehmood, Rashid
+AU  - Abozinadah, Ehab
+AU  - Sharaf, Sanaa
+T2  - Smart Infrastructure and Applications
+A2  - Mehmood, Rashid
+A2  - See, Simon
+A2  - Katib, Iyad
+A2  - Chlamtac, Imrich
+CY  - Cham
+DA  - 2020///
+PY  - 2020
+DP  - DOI.org (Crossref)
+SP  - 329
+EP  - 346
+LA  - en
+PB  - Springer International Publishing
+SN  - 978-3-030-13704-5 978-3-030-13705-2
+ST  - SelecWeb
+UR  - http://link.springer.com/10.1007/978-3-030-13705-2_14
+Y2  - 2024/09/27/02:51:29
+ER  - 
+
+TY  - JOUR
+TI  - Web development frameworks and its performance analysis—A review
+AU  - Mishra, SP
+AU  - Srivastava, SK
+T2  - Smart Computing
+DA  - 2021///
+PY  - 2021
+SP  - 337
+EP  - 343
+ER  - 
+
+TY  - JOUR
+TI  - The Research on Single Page Application Front-end development Based on Vue
+AU  - Li, Nian
+AU  - Zhang, Bo
+T2  - Journal of Physics: Conference Series
+AB  - Abstract
+            ‘Vuejs’ is a popular front-end framework, which uses MVVM (Model View View-Model) design pattern to support data-driven and component-based development. This paper discusses the basic working principle and development mode of Vue, and on this basis, uses SPA (Single Page Application) to design and implement a mobile mall front-end page based on Vue. This research fully demonstrates the advantages of front-end and back-end separation technology in Web development, and provides a powerful front-end support for full stack development.
+DA  - 2021/04/01/
+PY  - 2021
+DO  - 10.1088/1742-6596/1883/1/012030
+DP  - DOI.org (Crossref)
+VL  - 1883
+IS  - 1
+SP  - 012030
+J2  - J. Phys.: Conf. Ser.
+SN  - 1742-6588, 1742-6596
+UR  - https://iopscience.iop.org/article/10.1088/1742-6596/1883/1/012030
+Y2  - 2024/09/27/02:53:11
+ER  - 
+
+TY  - CONF
+TI  - Designing a Web-Based Career System Using the Laravel Framework using the waterfall method
+AU  - Khaliq, Abdul
+AU  - Batubara, Supina
+AU  - Syaula, Maya
+AU  - Sahrial, Sahrial
+C3  - International Conference on Sciences Development and Technology
+DA  - 2022///
+PY  - 2022
+VL  - 2
+SP  - 203
+EP  - 209
+ER  - 
+
+TY  - CONF
+TI  - Performance Analysis on Web Development Programming Language (Javascript, Golang, PHP)
+AU  - Nabiil, Arkaan
+AU  - Makmur, Bintang Hermawan
+AU  - Wijaya, Reynard Wiratama
+AU  - Santoso Gunawan, Alexander Agung
+AU  - Edbert, Ivan Sebastian
+T2  - 2023 International Conference on Information Technology and Computing (ICITCOM)
+C1  - Yogyakarta, Indonesia
+C3  - 2023 International Conference on Information Technology and Computing (ICITCOM)
+DA  - 2023/12/01/
+PY  - 2023
+DO  - 10.1109/ICITCOM60176.2023.10442358
+DP  - DOI.org (Crossref)
+SP  - 6
+EP  - 11
+PB  - IEEE
+SN  - 9798350359633
+UR  - https://ieeexplore.ieee.org/document/10442358/
+Y2  - 2024/09/27/02:56:45
+ER  - 
+
+TY  - CONF
+TI  - Towards the integration of user interface prototyping and model-based development
+AU  - Machado, Catarina
+AU  - Campos, Jose Creissac
+T2  - 2021 International Conference on Graphics and Interaction (ICGI)
+C1  - Porto, Portugal
+C3  - 2021 International Conference on Graphics and Interaction (ICGI)
+DA  - 2021/11/04/
+PY  - 2021
+DO  - 10.1109/ICGI54032.2021.9655284
+DP  - DOI.org (Crossref)
+SP  - 1
+EP  - 8
+PB  - IEEE
+SN  - 978-1-66548-343-8
+UR  - https://ieeexplore.ieee.org/document/9655284/
+Y2  - 2024/09/27/02:57:04
+L1  - https://repositorio.inesctec.pt/bitstreams/56b6228e-7235-48a7-8bce-19754315afdd/download
+ER  - 
+
+TY  - JOUR
+TI  - Factors and actors leading to the adoption of a JavaScript framework
+AU  - Pano, Amantia
+AU  - Graziotin, Daniel
+AU  - Abrahamsson, Pekka
+T2  - Empirical Software Engineering
+DA  - 2018/12//
+PY  - 2018
+DO  - 10.1007/s10664-018-9613-x
+DP  - DOI.org (Crossref)
+VL  - 23
+IS  - 6
+SP  - 3503
+EP  - 3534
+J2  - Empir Software Eng
+LA  - en
+SN  - 1382-3256, 1573-7616
+UR  - http://link.springer.com/10.1007/s10664-018-9613-x
+Y2  - 2024/09/27/02:57:28
+L1  - https://jyx.jyu.fi/bitstream/123456789/60472/4/Factors%20and%20actors.pdf
+ER  - 
+
+TY  - JOUR
+TI  - Comparing Modern Front-End Frameworks
+AU  - KEPLER, JOHANNES
+DA  - 2022///
+PY  - 2022
+ER  - 
+
