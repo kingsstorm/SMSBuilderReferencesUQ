@@ -1588,7 +1588,7 @@ AU  - Ram髇 Bermejo Higuera, Juan
 AU  - Bermejo Higuera, Javier
 AU  - Antonio SiciliaMontalvo, Juan
 AU  - S醤chez Rubio, Manuel
-AU  - Alberto Magre襻n, �
+AU  - Alberto Magre襻n,  
 T2  - Computer Modeling in Engineering & Sciences
 DA  - 2021///
 PY  - 2021
@@ -1779,5 +1779,30 @@ TI  - Comparing Modern Front-End Frameworks
 AU  - KEPLER, JOHANNES
 DA  - 2022///
 PY  - 2022
+ER  - 
+
+TY  - JOUR
+TI  - SMS-Builder: An adaptive software tool for building systematic mapping studies
+AU  - Candela-Uribe, Christian A.
+AU  - Sepúlveda-Rodríguez, Luis E.
+AU  - Chavarro-Porras, Julio C.
+AU  - Sanabria-Ordoñez, John A.
+AU  - Garrido, José Luis
+AU  - Rodríguez-Domínguez, Carlos
+AU  - Guerrero-Contreras, Gabriel
+T2  - SoftwareX
+DA  - 2022/01//
+PY  - 2022
+DO  - 10.1016/j.softx.2021.100935
+DP  - DOI.org (Crossref)
+VL  - 17
+SP  - 100935
+J2  - SoftwareX
+LA  - en
+SN  - 23527110
+ST  - SMS-Builder
+UR  - https://linkinghub.elsevier.com/retrieve/pii/S2352711021001710
+Y2  - 2024/09/27/17:33:35
+L1  - https://digibug.ugr.es/bitstream/10481/74060/1/1-s2.0-S2352711021001710-main.pdf
 ER  - 
 
